@@ -40,16 +40,13 @@ transition: background-color 0.3s ease;
 }
 </head>
 <body>
+ </head>
+<body>
 <div id="calculator">
 <input type="text" id="display" disabled>
 <div id="buttons">
-<input id="Постійні витрати: "/>
-<input id="Ціна продажу: "/>
-<input id="Змінні витрати на одиницю товару: "/>
-<!-- Розрахунок -->
-<div id="operator_btns">
- <button id="plus"</button>
+<div class="btn-group" role="group" aria-label="Basic example">
+  <button type="button" class="btn btn-primary">Left</button>
+  <button type="button" class="btn btn-primary">Middle</button>
+  <button type="button" class="btn btn-primary">Right</button>
 </div>
-<button >Відповідь:</button>
-</body>
-</html> 
