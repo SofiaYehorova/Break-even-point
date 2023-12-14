@@ -29,7 +29,7 @@
         </h2>
         <!-- onclick event is to call the function 
             when user click on the button -->
-        <button onclick="percentage_2()">Calculate</button></br>
+        <button onclick="percentage_2()">Calculate</button><br>
         <!-- Read-only input field to display 
             output and cannot be modified -->
         <input type="text" id="value2" readonly />
