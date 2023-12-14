@@ -128,3 +128,5 @@
         	.value = (num1 * 100) / num2 + "%";
     }
 </script>
+</body>
+</html>
