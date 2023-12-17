@@ -54,15 +54,13 @@
     display:flex property, which is aligned at the
     centre, is used to fill available free space 
     or to shrink them to prevent overflow. */
-    body {
+   body {
         background-color: #F0FFFF;
-        background: #images/download.jpeg;
-        min-height: 500vh;
+        min-height: 100vh;
         display: flex;
-        flex-direction: column;
-        flex: auto;
         justify-content: center;
         align-items: center;
+        flex-direction: column;
     }
     /* font-weight Specifies weight of glyphs 
     in the font, their degree of blackness or 
