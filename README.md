@@ -56,11 +56,12 @@
     or to shrink them to prevent overflow. */
     body {
         background-color: #F0FFFF;
-        min-height: 100vh;
+        min-height: 500vh;
         display: flex;
+        flex-direction: column;
+        flex: auto;
         justify-content: center;
         align-items: center;
-        flex-direction: column;
     }
     /* font-weight Specifies weight of glyphs 
     in the font, their degree of blackness or 
