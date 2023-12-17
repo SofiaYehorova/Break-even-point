@@ -56,6 +56,7 @@
     or to shrink them to prevent overflow. */
     body {
         background-color: #F0FFFF;
+        background: #images/download.jpeg;
         min-height: 500vh;
         display: flex;
         flex-direction: column;
