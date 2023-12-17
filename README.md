@@ -55,7 +55,7 @@
     centre, is used to fill available free space 
     or to shrink them to prevent overflow. */
     body {
-        background-color: #f7f7f7;
+        background-color: #F0FFFF;
         min-height: 100vh;
         display: flex;
         justify-content: center;
@@ -71,7 +71,7 @@
     }
     div {
         width: 480px;
-        background-color: #fff;
+        background-color: #87CEEB;
         margin: 12px 0;
         padding: 24px;
         text-align: center;
@@ -105,7 +105,7 @@
         padding: 8px 0;
         font-weight: 900;
         text-align: center;
-        background-color: #f7f7f7;
+        background-color: #F0FFFF;
         border: 2px solid #ccc;
         border-radius: 6px;
     }
