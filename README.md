@@ -56,7 +56,7 @@
     or to shrink them to prevent overflow. */
     body {
         background-color: #c0c0c0; 
-        background:=<img src="download.jpeg" width="100%">;
+        background:#img src="download.jpeg" width="100%";
     }
     /* font-weight Specifies weight of glyphs 
     in the font, their degree of blackness or 
