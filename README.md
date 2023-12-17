@@ -55,8 +55,12 @@
     centre, is used to fill available free space 
     or to shrink them to prevent overflow. */
     body {
-        background-color: #c0c0c0; 
-        background:#img src="download.jpeg" width="100%";
+        background-color: #F0FFFF;
+        min-height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
     }
     /* font-weight Specifies weight of glyphs 
     in the font, their degree of blackness or 
